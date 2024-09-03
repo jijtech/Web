@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html" />
+  </a>
+</p>
+
 # Find and collect inspiration and make something from scratch
 Web design and coding
 Ill be aiming to create my own folio website from scratch.
